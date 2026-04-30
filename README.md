@@ -1,6 +1,7 @@
 # **Prediksi Pembatalan Reservasi Hotel Menggunakan Model Klasifikasi Machine Learning: Studi Kasus Hotel Lonestar Oriental, Portugal**
 
-**By:** Daniel Berzelius H. & Zahrah Mahfuzah
+**By:** Daniel Berzelius H. & Zahrah Mahfuzah (Alpha Group)    
+
 **Program:** JCDSAHSR-004
 
 ---
